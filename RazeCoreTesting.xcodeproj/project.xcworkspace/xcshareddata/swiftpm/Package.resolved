@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "razecore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timmitra/RazeCore",
+      "state" : {
+        "revision" : "c03d6bad6aaadd3cc40a9ac6919a7c36e522e120",
+        "version" : "0.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
