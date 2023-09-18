@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/timmitra/RazeCore",
       "state" : {
-        "revision" : "518320ee72603aa643b1fcf6ce9f891cb1c2e714",
-        "version" : "0.2.0"
+        "revision" : "dfb0245bb85312c119b70fa00edebcb8bdef6f56",
+        "version" : "0.3.0"
       }
     }
   ],

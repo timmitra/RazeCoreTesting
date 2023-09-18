@@ -17,6 +17,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         let color = RazeCore.Color.razeColor
         let secondColor = RazeCore.Color.secondaryRazeColor
+        let url = URL(string: "https://raywenderlich.com")!
+        let manager = RazeCore.Networking.Manager()
+        manager.loadData(from: url) { result in
+            print(result)
+        }
         return true
     }
 
